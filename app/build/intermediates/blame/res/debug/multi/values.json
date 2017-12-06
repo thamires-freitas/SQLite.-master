@@ -1,0 +1,827 @@
+[
+    {
+        "outputFile": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 45,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 46,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 50,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 74,
+                    "endOffset": 3214
+                },
+                "from": {
+                    "file": "C:\\Users\\arqdsis\\.android\\build-cache\\6c66dbf65f1aa6e836937f25536b1106735880a3\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 74,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3219,
+                    "endColumn": 75,
+                    "endOffset": 3290
+                },
+                "from": {
+                    "file": "C:\\Users\\arqdsis\\.android\\build-cache\\6c66dbf65f1aa6e836937f25536b1106735880a3\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 75,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3295,
+                    "endColumn": 71,
+                    "endOffset": 3362
+                },
+                "from": {
+                    "file": "C:\\Users\\arqdsis\\.android\\build-cache\\6c66dbf65f1aa6e836937f25536b1106735880a3\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 71,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3367,
+                    "endColumn": 42,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 65,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "C:\\Users\\arqdsis\\.android\\build-cache\\6c66dbf65f1aa6e836937f25536b1106735880a3\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 65,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endColumn": 44,
+                    "endOffset": 3516
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 44,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3521,
+                    "endColumn": 44,
+                    "endOffset": 3561
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 44,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3566,
+                    "endColumn": 69,
+                    "endOffset": 3631
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 69,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3636,
+                    "endColumn": 54,
+                    "endOffset": 3686
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 54,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3691,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 3823
+                },
+                "from": {
+                    "file": "E:\\Alunos\\SQLite.-master\\Exercicio-07----SQLite.-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 186
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 45,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 46,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 50,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 74,
+                    "endOffset": 3214
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.android\\build-cache\\ab80f9780a2f1946ef9822a406adbf54203e8b76\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 74,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3219,
+                    "endColumn": 75,
+                    "endOffset": 3290
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.android\\build-cache\\ab80f9780a2f1946ef9822a406adbf54203e8b76\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 75,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3295,
+                    "endColumn": 71,
+                    "endOffset": 3362
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.android\\build-cache\\ab80f9780a2f1946ef9822a406adbf54203e8b76\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 71,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3367,
+                    "endColumn": 42,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 65,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.android\\build-cache\\ab80f9780a2f1946ef9822a406adbf54203e8b76\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 65,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endColumn": 44,
+                    "endOffset": 3516
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 44,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3521,
+                    "endColumn": 44,
+                    "endOffset": 3561
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 44,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3566,
+                    "endColumn": 69,
+                    "endOffset": 3631
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 69,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3636,
+                    "endColumn": 54,
+                    "endOffset": 3686
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 54,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3691,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 3823
+                },
+                "from": {
+                    "file": "C:\\Users\\LuKao\\.AndroidStudio2.3\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 186
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 19,
+                    "endOffset": 276
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 281,
+                    "endColumn": 45,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 46,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 50,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 3144,
+                    "endColumn": 74,
+                    "endOffset": 3214
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\.android\\build-cache\\4b503bec0ab866e6da92f42cec2804835fc44b28\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 74,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 3219,
+                    "endColumn": 75,
+                    "endOffset": 3290
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\.android\\build-cache\\4b503bec0ab866e6da92f42cec2804835fc44b28\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 447,
+                        "endColumn": 75,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 3295,
+                    "endColumn": 71,
+                    "endOffset": 3362
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\.android\\build-cache\\4b503bec0ab866e6da92f42cec2804835fc44b28\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 71,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 3367,
+                    "endColumn": 42,
+                    "endOffset": 3405
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 42,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 3410,
+                    "endColumn": 65,
+                    "endOffset": 3471
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\.android\\build-cache\\4b503bec0ab866e6da92f42cec2804835fc44b28\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 595,
+                        "endColumn": 65,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 3476,
+                    "endColumn": 44,
+                    "endOffset": 3516
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 44,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 3521,
+                    "endColumn": 44,
+                    "endOffset": 3561
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 44,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 3566,
+                    "endColumn": 69,
+                    "endOffset": 3631
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 69,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 3636,
+                    "endColumn": 54,
+                    "endOffset": 3686
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 54,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3691,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 3823
+                },
+                "from": {
+                    "file": "C:\\Users\\Bruno\\Documents\\Faculdade Usjt\\Ultimo Semestre\\Mobile\\Entrega Exercicios\\Exercicio 7\\GeoData-1.3\\GeoData-1.3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 186
+                    }
+                }
+            }
+        ]
+    }
+]
